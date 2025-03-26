@@ -12,3 +12,6 @@ int main(){
 Case1:
 	    printf("B-tech CSE");
     }break;
+Case2:
+            printf("B-tech AIML");
+
