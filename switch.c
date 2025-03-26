@@ -14,4 +14,7 @@ Case1:
     }break;
 Case2:
             printf("B-tech AIML");
-
+	    break;
+Case3:
+	    printf("B-tech ECE");
+	    break;
