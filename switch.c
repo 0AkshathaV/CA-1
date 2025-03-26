@@ -16,6 +16,9 @@ Case1:
     }break;
 Case2:
             printf("B-tech AIML");
+	     scanf("%d");
+            printf("Artificial intelligence");
+
 	    break;
 Case3:
 	    printf("B-tech ECE");
