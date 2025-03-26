@@ -20,6 +20,7 @@ Case2:
 	    break;
 Case3:
 	    printf("B-tech ECE");
+	    printf("Electronics");
 	    break;
 Case4:
 	    printf("B-tech MEC");
