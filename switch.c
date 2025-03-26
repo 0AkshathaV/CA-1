@@ -11,6 +11,8 @@ int main(){
     switch(choice){
 Case1:
 	    printf("B-tech CSE");
+	    scanf("%d");
+	    printf("Computer science");
     }break;
 Case2:
             printf("B-tech AIML");
