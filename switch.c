@@ -16,6 +16,7 @@ Case1:
     }break;
 Case2:
             printf("B-tech AIML");
+	    printf("Artficial");
 	    break;
 Case3:
 	    printf("B-tech ECE");
