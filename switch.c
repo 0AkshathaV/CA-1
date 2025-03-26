@@ -18,3 +18,12 @@ Case2:
 Case3:
 	    printf("B-tech ECE");
 	    break;
+Case4:
+	    printf("B-tech MEC");
+
+	    default;
+	    printf("invalid choice");
+}
+
+return 0;
+}
