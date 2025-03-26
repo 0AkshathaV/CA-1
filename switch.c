@@ -22,6 +22,7 @@ Case3:
 	    break;
 Case4:
 	    printf("B-tech MEC");
+	    printf("Mechanical");
 
 	    default;
 	    printf("invalid choice");
