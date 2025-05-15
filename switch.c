@@ -20,6 +20,8 @@ Case3:
 	    break;
 Case4:
 	    printf("B-tech MEC");
+case4:
+	    printf("B-tech BIO");
 
 	    default;
 	    printf("invalid choice");
