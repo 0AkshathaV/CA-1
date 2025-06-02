@@ -3,11 +3,12 @@ int main(){
     int choice;
    
     while(1){
+    printf("List of courses");	    
     printf("1-> B-tech CSE");
     printf("2-> B-tech AIML");
     printf("3-> B-tech ECE");
     printf("4-> B-tech MEC");
-
+    
     switch(choice){
 Case1:
 	    printf("B-tech CSE");
